@@ -31,10 +31,7 @@ class Main {
 
   static public void problem1() {
     /*
-     * In the menu to your left, there should be a list of files
-     * If not, click the little icon that looks like a piece of paper.
-     *
-     * Click on the file "Student.java" and inspect the class structure
+     * Open on the file "Student.java" and inspect the class structure
      * In the space below, create a Student object and assign it to a variable
      * Print out the default student's name, age, and gpa
      * 
@@ -55,13 +52,10 @@ class Main {
 
   static public void problem2() {
     /*
-     * In the menu to your left, there should be a list of files
-     * If not, click the little icon that looks like a piece of paper.
-     *
-     * Click on the file "Car.java" and inspect the class
+     * Open the file "Car.java" and inspect the class
      * You'll notice that there aren't many methods or properties.
      *
-     * Create 3 additional properties for the car class: 
+     * Create 3 additional properties for the car class in Car.java: 
      * one should be an int, one should be a double and one should be a boolean
      *
      * Create a new method for the car class: one should be called 
@@ -70,9 +64,9 @@ class Main {
      * if I have a Car object called myCar, I could call myCar.horn("beep beep")
      * and it would print out "beep beep".
      *
-     * Create a new Car object and call your new horn method 
+     * Create a new Car object and call your new horn method (in main.java)
      *
-     * The second part is to call your object's getType method and see if it returns "Truck"
+     * The second part is to call your object's getType method and see if it returns "Truck" (in main.java)
      */
 
     // create your car object here
@@ -91,10 +85,7 @@ class Main {
 
   static public void problem3() {
     /*
-     * In the menu to your left, there should be a list of files
-     * If not, click the little icon that looks like a piece of paper.
-     *
-     * Click on the file "MyMath.java" and inspect the methods
+     * Open the file "MyMath.java" and inspect the methods
      * You'll notice that the "square" method doesn't do anything.
      * Your job is to fill in the square function so that it works properly
      * 
