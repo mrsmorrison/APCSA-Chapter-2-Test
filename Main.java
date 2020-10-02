@@ -43,7 +43,6 @@ class Main {
 
     // create default student object and print out info
 
-
     // create second student object with your constructor and print out info
 
 
